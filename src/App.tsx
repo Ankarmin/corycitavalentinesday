@@ -97,7 +97,7 @@ function App() {
         </h1>
         <div className="relative flex justify-center items-center">
           <img
-            src="/rosa.png"
+            src="rosa.png"
             alt="Valentine's Rose"
             className="w-80 h-auto object-cover mix-blend-multiply drop-shadow-lg"
           />
